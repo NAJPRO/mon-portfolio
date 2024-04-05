@@ -88,7 +88,7 @@ header #collapsibleNavId li a{
     width: 100vw;
     height: 600px;
     /* background: linear-gradient(to bottom, #f3fe7b, #88c70a); */
-    background-image: url('/img/mockup-654585_640.jpg'), url('/PortFolio/images/Capture\ d’écran\ 2024-03-30\ 101701.png');
+    background-image: url('/imgages/mockup-654585_640.jpg'), url('/images/Capture\ d’écran\ 2024-03-30\ 101701.png');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
